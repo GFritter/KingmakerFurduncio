@@ -1,0 +1,71 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "MyRElhcipyUkH_wMThYDP",
+      "name": "Ace",
+      "value": "#d97708"
+    },
+    {
+      "id": "ep8OFjBhoIVOvHHsO68LH",
+      "name": "Anaya",
+      "value": "#f4d04e"
+    },
+    {
+      "id": "or-kBgXVQkYl8Extp_eFm",
+      "name": "Kaelric",
+      "value": "#aa0808"
+    },
+    {
+      "id": "qrAZ5K5gMATRjhOfekBq9",
+      "name": "Aletos",
+      "value": "#ab9c9c"
+    },
+    {
+      "id": "d9TQ5DCCDYvpRbpZr0TIF",
+      "name": "Marchus",
+      "value": "#6292df"
+    },
+    {
+      "id": "Qwa370cIb3GfhQJa5nk4S",
+      "name": "Samantha",
+      "value": "#573b14"
+    },
+    {
+      "id": "dqsoo2KUTDVNTiJrB4uN2",
+      "name": "Nyssalin",
+      "value": "#093008"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "00 - Players/Ace",
+      "color": "MyRElhcipyUkH_wMThYDP"
+    },
+    {
+      "path": "00 - Players/Aletos",
+      "color": "qrAZ5K5gMATRjhOfekBq9"
+    },
+    {
+      "path": "00 - Players/Anaya",
+      "color": "ep8OFjBhoIVOvHHsO68LH"
+    },
+    {
+      "path": "00 - Players/Kaelric",
+      "color": "or-kBgXVQkYl8Extp_eFm"
+    },
+    {
+      "path": "00 - Players/Marchus",
+      "color": "d9TQ5DCCDYvpRbpZr0TIF"
+    },
+    {
+      "path": "00 - Players/Nyssalin",
+      "color": "dqsoo2KUTDVNTiJrB4uN2"
+    },
+    {
+      "path": "00 - Players/Samantha Kayne",
+      "color": "Qwa370cIb3GfhQJa5nk4S"
+    }
+  ]
+}

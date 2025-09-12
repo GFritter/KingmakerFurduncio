@@ -1,0 +1,37 @@
+- [x] Baixar Foundry ✅ 2025-08-24
+- [x] Recriar a campanha com o modulo ✅ 2025-08-24
+- [ ] (Futuro) checar modulos adicionais pra pf2
+- [ ] Criar fichas dos personagens no foundry
+	- [x] Anaya ✅ 2025-08-24
+	- [x] Ace ✅ 2025-08-30
+	- [ ] Nyssalin
+	- [x] Samantha Kayne ✅ 2025-08-24
+	- [x] Marchus ✅ 2025-08-24
+	- [x] Kaelric ✅ 2025-08-30
+	- [x] Aletos ✅ 2025-08-24
+- [ ] (Opcional) Criar modelos dos personagens em um dos sites (talvez no eldritch foundry ao inves do heroforge)
+- [x] Criar pastas no obsidian pra cada personagem ✅ 2025-08-27
+- [ ] Copiar a lore e colar aqui e criar os hyperlinks corretos
+- [ ] Copiar os headers de capitulos do foundry e criar paginas aqui pra facilitar o planejamento dos arcos dos personagems
+- [ ] Criar canvas pra ser homepage
+- [ ] Ver sobre montar paginas pra escudo do mestre
+- [ ] Criar templates pros diversos tipos de personagem, localidade, encontro etc
+- [ ] Montar arquivos de Deuses pro pessoal e mandar
+	- [ ] Anaya
+	- [ ] Ace
+	- [ ] Nyssalin
+	- [ ] Samantha Kayne
+	- [ ] Kaelric
+	- [ ] Marchus
+	- [ ] Aletos
+- [ ] Separar uma parte da Vault pra Worldbuilding
+- [ ] Sincronizar com o Git
+- [ ] Fazer Sketch dos principais arcos e pontos de cada um dos personagens:
+	- [ ] Anaya
+	- [ ] Ace
+	- [ ] Nyssalin
+	- [ ] Samantha Kayne
+	- [ ] Kaelric
+	- [ ] Marchus
+	- [ ] Aletos
+- [ ] Fazer Deck de Hero Points

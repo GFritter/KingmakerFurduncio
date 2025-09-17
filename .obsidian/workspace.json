@@ -11,30 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Content/Assets/casandalee-image.png"
-              },
-              "icon": "lucide-image",
-              "title": "casandalee-image"
-            }
-          },
-          {
-            "id": "8541ac8fbe3f94a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Players/Aletos/Divindades Aletos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Divindades Aletos"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 205.5
   },
   "right": {
     "id": "d58058c65caa302a",
@@ -173,13 +156,23 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "181bb19ad1d0545b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,12 +194,30 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a5af0e0e103e80ca",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Content/Assets/Brigh image.png",
+    "Hand-ins/Divindades Aletos 2.pdf",
+    "Hand-ins/Divindades Aletos.pdf",
+    "Sessions/Session 2 - Punhos Gelados, Saloes em Chamas.md",
+    "Sessions/Session 0.5 -  The Great Feast.md",
+    "Sessions/Session 1 - Gritos na Noite.md",
+    "Homebrews/Homebrew Support Materials.md",
+    "Homebrews",
+    "00 - Players/Ace/Divindades Ace.md",
     "00 - Players/Aletos/Divindades Aletos.md",
-    "Things to Do.md",
+    "00 - Players/Marchus/Divindades Marchus.md",
+    "00 - Players/Samantha Kayne/Divindades Samantha.md",
+    "00 - Players/Nyssalin/Divindades Nyssalin.md",
+    "00 - Players/Samantha Kayne/Samantha Kayne.md",
+    "00 - Players/Nyssalin/Nyssalin.md",
+    "00 - Players/Anaya/Divindades Anaya.md",
+    "00 - Players/Anaya/Anaya.md",
+    "00 - Players/Kaelric/Divindades Kaelric.md",
     "Content/Assets/casandalee-image.png",
+    "Content/Assets/wheels of innovation symbol.png",
+    "Content/Assets/Iomedae Symbol.png",
+    "Things to Do.md",
+    "Content/Assets/Brigh image.png",
     "Content/Assets/casandalee-symbol.png",
     "Templates/Deity Templates.md",
     "00 - Players",
@@ -218,23 +229,16 @@
     "00 - Players/Aletos/Quarta Cruzada De Mendev.md",
     "Archives of Nethys/Deities.md",
     "Archives of Nethys",
-    "Sessions/Session 1 - Gritos na Noite.md",
-    "Sessions/Session 0.5 -  The Great Feast.md",
     "Sessions",
     "Content/Tokens/Aletos.png",
     "Content/Tokens/Anaya.png",
     "Content/Tokens/Cora.png",
     "Content/Tokens/kaelric.jpg",
     "Content/Tokens/marchusclose.jpg",
-    "Content/Tokens/marchus fb.jpg",
-    "Content/Tokens/Ace.png",
     "Content/Tokens",
     "Content/Nova pasta",
-    "Content/Ficha Kaelrik.pdf",
     "00 - Players/Marchus/Marchus.md",
-    "Content/Thelemas Aldori - Backstory.pdf",
     "00 - Players/Kaelric/Kaelric.md",
-    "Content/BG Kaelrik.pdf",
     "00 - Players/Ace/Elias 'O Cavalheiro' Monteiro.md",
     "Welcome.md"
   ]

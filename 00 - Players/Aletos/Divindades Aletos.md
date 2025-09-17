@@ -24,11 +24,12 @@ Ela é a patrona da vida artificial, pensamento livre e junto com sua pequena ba
 --- column-break ---
 
 
-![[casandalee-image.png]]
+
 
 
 
 --- end-multi-column
+![[casandalee-image.png#right]]
 #### Dominio
 Criação, Liberdade, Conhecimento, Metal.
 
@@ -82,9 +83,6 @@ Independente de sua história, Brigh é uma deusa de cuidado, carinho e diligên
 
 --- end-multi-column
 
-
-
-
 #### Dominio
 Criação, Conhecimento, Metal, Tempo;
 
@@ -97,45 +95,85 @@ Máscara com uma runa em sua testa.
 Criar novas invenções, se atentar a detalhes, compartilhar conquistas.
 
 #### Anátemas
-
+destruir de maneira cruel ou descuidada a criação ou pesquisa de outros, escravizar construtos inteligentes, abusar construtos, se recusar a aprender com seus erros
 
 #### Contato
-
-
-question propose and test
+Aletos como um inventor deve ter tido diversos contatos com seguidores de Brigh ao longo de sua jornada, assim como pode ter aprendido diretamente de seus textos sagrados [[A Lógica do Design]], um texto que composto por diversos artigos científicos que descrevem e analisam o Método Científico. Aletos também já teve contato com seguidores de Brigh que desenvolviam suas criações baseados nos três pilares da fé: Questionar, Propor e Testar.
+Também deve ter se voltado para textos e histórias, principalmente do lado da fé que descreve Brigh como um construto que adquiriu consciência.
 
 
 ---
 ## Tem Algum Conhecimento
 ---
 ### [[Iomedae]]
-#### Dominio
 
+Iomedae é a jovem deusa da Humanidade, tomou seu posto de relevância após a morte de [[Aroden]] o antigo Deus da Humanidade e da Profecia. Tomou seu lugar após ter servido como Paladina de seu Arauto, tomando o lugar de Arauto após a queda da mesma durante a [[Cruzada Brilhante]] e eventualmente do próprio deus.
+
+#### Dominio
+Auto-confiança, Poder, Verdade, Zelo
 
 #### Simbolo
 
+--- start-multi-column: ID_4lrc
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
+Sol com espada
+
+
+--- column-break ---
+
+![[Iomedae Symbol.png]]
+
+
+--- end-multi-column
+
 
 #### Contato
-
+Aletos lutou e sangrou ao lado de muitos devotos de Iomedae, tomando o lugar como um dos principais deuses bons e tendo em vista sua história marcial, grande parte dos Cruzados eram seguidores de Iomedae, e um grande número de seus Paladinos e Clérigos compunham o alto escalão a quem Aletos servia.
 
 ### [[The Wheels of Innovation]]
+
+As Rodas da Inovação são um panteão composto pelos deuses [[Aakriti]], [[Bharnarol]], [[Brigh]], [[Casandalee]], [[Nocticula]] e [[Torag]] . Como criadores são em sua grande parte pragmáticos e preferem resolver seus problemas por lógica e inteligência e tem pouco tempo (ou em casos interesse) em se dedicar a uma divindade, muitos escolhem por levemente dedicar suas orações e tempo ao panteão que rege pelas áreas de inovação e criação no geral.
+
 #### Dominio
 
+Ambição, Mudança, Criação, Conhecimento
 
+Areas de interesse: inovadores, inspiração, perseverança frente à falhas e tecnologia.
 #### Simbolo
 
 
-#### Contato
+--- start-multi-column: ID_ih4l
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
 
+Duas engrenagens encaixadas
+
+--- column-break ---
+
+![[wheels of innovation symbol.png]]
+
+--- end-multi-column
+
+#### Contato
+Como um inventor Aletos com certeza já teve contato com muitos seguidores desse panteão, que abrange de uma maneira ampla todo tipo de divindade que rege por criadores e suas criações.
 
 
 ## Ouviu Falar
 ---
 ### [[Sarenrae]]
 
+Sarenrae, The Dawnflower, A Flor do Amanhecer é uma das deuses mais populares de Golarion, devido à sua conexão com o Sol e seus seguidores ávidos a ajudar.
+
 #### Contato
+Sarenrae possui os clérigos mais inclinados a ajudar e curar os feridos mas também os paladinos mais dedicados em queimar e destruir o mal onde ele se encontra. Muitos dos mais fervorosos e dedicados Cruzados que Aletos conheceu eram seguidores da deusa.
 
 ### [[Pazuzu]]
 
+Pazuzu, Rei dos Demônios Alados é o Lorde demônio dos Céus, Tentação e Criaturas Aladas. É um dos demônios mais anciões porém seu poder é reduzido devido a sua constante interferência em intrigas e conflitos.
 #### Contato
-Lorde demonio pai de [[Deskari]] o demonio responsavel pela cruzada
+Lorde demônio pai de [[Deskari]] o demônio responsável pela Cruzada, muitas vezes Aletos viu esse nome ser amaldiçoado em diversos lugares.

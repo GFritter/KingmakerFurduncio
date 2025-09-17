@@ -1,4 +1,11 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Content/Assets"
+  "attachmentFolderPath": "Content/Assets",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

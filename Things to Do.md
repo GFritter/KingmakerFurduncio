@@ -25,7 +25,7 @@
 	- [ ] Marchus
 	- [ ] Aletos
 - [ ] Separar uma parte da Vault pra Worldbuilding
-- [ ] Sincronizar com o Git
+- [x] Sincronizar com o Git ✅ 2025-09-12
 - [ ] Fazer Sketch dos principais arcos e pontos de cada um dos personagens:
 	- [ ] Anaya
 	- [ ] Ace

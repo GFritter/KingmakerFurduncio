@@ -3,7 +3,7 @@
 
 os player se encontram perante as portas do Scuttlery onde [[Jormagundr]] esta tentando se recuperar pra abrir a barricada
 	- Definir um tile para a espada da Amiri, que ele tentaria pegar (Aumenta o 1d8 pra 1d12) pra tambem dar um pouco mais de tensao e um objetivo secundario pra luta
-	- Ao derrotalo check de Perception dc 15 de [[Ace]] e [[Kaelric]] para identificar o pirata no meio dos corpos +1d6 balas pro Ace
+	- Ao derrotalo check de Perception dc 15 de [[Ace]] e [[Kaelric]] para identificar o pirata no meio dos corpos +1d6 balas pro Ace (esqueci das balas)
 
 Procedem para o Great Hall
 

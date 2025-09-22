@@ -24,7 +24,18 @@
 ---
 ## Tem Algum Conhecimento
 ---
-### {%Divindade 2%}
+### some green faith
+
+#### Dominio
+
+
+#### Simbolo
+
+
+#### Contato
+
+### [[Apsu]]
+
 #### Dominio
 
 

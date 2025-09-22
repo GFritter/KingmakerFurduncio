@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 12021786
       }
+    },
+    {
+      "query": "path:Sessions  ",
+      "color": {
+        "a": 1,
+        "rgb": 12864732
+      }
     }
   ],
   "collapse-display": true,
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000024,
+  "scale": 0.7132754626224447,
   "close": false
 }

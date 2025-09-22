@@ -4,7 +4,7 @@
 ## Conhece Bem
 ---
 
-### [[Cayden Calean]]
+### [[Cayden Cailean]]
 
 #### Dominio
 
@@ -24,7 +24,7 @@
 ---
 ## Tem Algum Conhecimento
 ---
-### [[Nivi Rhombodazzle]]
+### [[Fortune's Fate]]
 #### Dominio
 
 
@@ -49,6 +49,6 @@
 
 #### Contato
 
-### The Wheels of Innovation
+### [[Abadar]]
 
 #### Contato

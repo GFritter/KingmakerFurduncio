@@ -24,7 +24,7 @@
 ---
 ## Tem Algum Conhecimento
 ---
-### {%Divindade 2%}
+### [[Erastil]]
 #### Dominio
 
 
@@ -34,8 +34,34 @@
 #### Contato
 
 
-## Ouviu Falar
----
-### {%Divindade 3%}
+### [[Ketephys]]
+#### Dominio
+
+
+#### Simbolo
+
 
 #### Contato
+
+
+### [[Calistria]]
+#### Dominio
+
+
+#### Simbolo
+
+
+#### Contato
+
+
+
+## Ouviu Falar
+---
+### [[Treerazer]]
+
+#### Contato
+
+### [[The Last Breath]]
+
+#### Contato
+

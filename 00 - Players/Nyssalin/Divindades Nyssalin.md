@@ -4,7 +4,7 @@
 ## Conhece Bem
 ---
 
-### {%Divindade 1%}
+### [[Gozreh]]
 
 #### Dominio
 
@@ -24,7 +24,16 @@
 ---
 ## Tem Algum Conhecimento
 ---
-### {%Divindade 2%}
+### [[Elven Deities]]
+#### Dominio
+
+
+#### Simbolo
+
+
+#### Contato
+
+### [[The Eldest]]
 #### Dominio
 
 
@@ -36,6 +45,11 @@
 
 ## Ouviu Falar
 ---
-### {%Divindade 3%}
+### [[Treerazer]]
 
 #### Contato
+
+### [[The Bogmother]]
+
+#### Contato
+

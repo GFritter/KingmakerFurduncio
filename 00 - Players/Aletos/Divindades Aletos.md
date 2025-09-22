@@ -107,11 +107,12 @@ Também deve ter se voltado para textos e histórias, principalmente do lado da 
 ---
 ### [[Iomedae]]
 
-Iomedae é a jovem deusa da Humanidade, tomou seu posto de relevância após a morte de [[Aroden]] o antigo Deus da Humanidade e da Profecia. Tomou seu lugar após ter servido como Paladina de seu Arauto, tomando o lugar de Arauto após a queda da mesma durante a [[Cruzada Brilhante]] e eventualmente do próprio deus.
+Iomedae é a jovem deusa da Humanidade, tomou seu posto de relevância após a morte de [[Aroden]] o antigo Deus da Humanidade e da Profecia. Tomou seu lugar após ter servido como Paladina de seu Arauto na época, [[Arazni]] e tomando o lugar de Arauto após a queda da mesma durante a [[Cruzada Brilhante]] e eventualmente do próprio deus.
 
 #### Dominio
 Auto-confiança, Poder, Verdade, Zelo
 
+Suas áreas de interesse são: Honra, Justiça, Governança e Braveza.
 #### Simbolo
 
 --- start-multi-column: ID_4lrc

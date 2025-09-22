@@ -4,8 +4,7 @@
 ## Conhece Bem
 ---
 
-### {%Divindade 1%}
-
+### [[Abadar]]
 #### Dominio
 
 
@@ -24,7 +23,7 @@
 ---
 ## Tem Algum Conhecimento
 ---
-### {%Divindade 2%}
+### [[Asmodeus]]
 #### Dominio
 
 
@@ -33,7 +32,7 @@
 
 #### Contato
 
-
+ 
 ## Ouviu Falar
 ---
 ### {%Divindade 3%}

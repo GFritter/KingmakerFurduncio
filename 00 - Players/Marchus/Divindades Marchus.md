@@ -73,7 +73,7 @@ Sol com espada
 Como um jovem impressionável e um membro dos Aldori, Marchus cresceu ouvindo as diversas histórias de como Iomedae se tornou de uma mera mortal a uma deusa, tomando a atenção dos deuses com seus feitos e bravura e sendo recompensada, até ir à [[Absalom]] e passar no [[Teste da Starstone]], se tornando a terceira mortal a passar no teste e tomando o lugar de [[Aroden]] como deusa após a morte do deus antigo.
 
 ### [[Cayden Cailean]]
-
+Cayden Cailean, O Deus Acidental, o Bebado Sortudo é um dos deuses que ascenderam ao fazer o [[Teste da Starstone]] 
 
 #### Dominio
 

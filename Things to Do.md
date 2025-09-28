@@ -23,7 +23,7 @@
 	- [ ] Samantha Kayne
 	- [ ] Kaelric
 	- [ ] Marchus
-	- [ ] Aletos
+	- [x] Aletos ✅ 2025-09-28
 - [ ] Separar uma parte da Vault pra Worldbuilding
 - [x] Sincronizar com o Git ✅ 2025-09-12
 - [ ] Fazer Sketch dos principais arcos e pontos de cada um dos personagens:

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ee753920b0e1d57a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "56fbf6cd1c1a6fe4",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Players/Marchus/Divindades Marchus.md",
+                "file": "Mobile Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Divindades Marchus"
+              "title": "Mobile Notes"
             }
           }
         ]
@@ -198,52 +198,53 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "56fbf6cd1c1a6fe4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "00 - Players/Aletos/Divindades Aletos.md",
+    "00 - Players/Ace/Ace.md",
+    "Mobile Notes.md",
+    "Unorganized Notes.md",
+    "Things to Do.md",
+    "Homebrews/Homebrew Support Materials.md",
+    "Sessions/Session 0.5 -  The Great Feast.md",
+    "Sessions/Session 1 - Gritos na Noite.md",
+    "Sessions/Session 2 - Punhos Gelados, Saloes em Chamas.md",
+    "Templates/Deities Handin Templates.md",
+    "Archives of Nethys/Deities/Deities.md",
+    "00 - Players/Nyssalin/Divindades Nyssalin.md",
     "00 - Players/Marchus/Divindades Marchus.md",
+    "00 - Players/Anaya/Divindades Anaya.md",
+    "00 - Players/Kaelric/Divindades Kaelric.md",
+    "00 - Players/Aletos/Divindades Aletos.md",
+    "00 - Players/Ace/Divindades Ace.md",
+    "Untitled.md",
+    "00 - Players/Anaya/Anaya.md",
+    "00 - Players/Kaelric/Kaelric.md",
+    "00 - Players/Ace/Elias 'O Cavalheiro' Monteiro.md",
     "00 - Players/Aletos/Aletos.md",
+    "00 - Players/Aletos/Quarta Cruzada De Mendev.md",
     "Archives of Nethys/Deities",
     "Content/Assets/falayna image.png",
     "00 - Players/Nyssalin/Nyssalin.md",
     "Olheon.md",
-    "00 - Players/Nyssalin/Divindades Nyssalin.md",
     "00 - Players/Samantha Kayne/Divindades Samantha.md",
-    "00 - Players/Anaya/Divindades Anaya.md",
-    "Sessions/Session 2 - Punhos Gelados, Saloes em Chamas.md",
-    "00 - Players/Ace/Divindades Ace.md",
-    "00 - Players/Kaelric/Divindades Kaelric.md",
-    "00 - Players/Kaelric/Kaelric.md",
     "Hand-ins/Divindades Aletos 2.pdf",
     "Hand-ins/Divindades Aletos.pdf",
-    "Sessions/Session 0.5 -  The Great Feast.md",
-    "Sessions/Session 1 - Gritos na Noite.md",
-    "Homebrews/Homebrew Support Materials.md",
     "Homebrews",
     "00 - Players/Samantha Kayne/Samantha Kayne.md",
-    "00 - Players/Anaya/Anaya.md",
     "Content/Assets/casandalee-image.png",
     "Content/Assets/wheels of innovation symbol.png",
     "Content/Assets/Iomedae Symbol.png",
-    "Things to Do.md",
     "Content/Assets/Brigh image.png",
     "Content/Assets/casandalee-symbol.png",
-    "Templates/Deity Templates.md",
     "00 - Players",
     "Hand-ins",
-    "Unorganized Notes.md",
     "Content/Assets",
-    "00 - Players/Ace/Ace.md",
-    "00 - Players/Aletos/Quarta Cruzada De Mendev.md",
-    "Archives of Nethys/Deities/Deities.md",
     "Archives of Nethys",
     "Sessions",
     "Content/Tokens/Aletos.png",
     "Content/Tokens/Anaya.png",
     "Content/Tokens/Cora.png",
     "Content/Tokens/kaelric.jpg",
-    "Content/Tokens",
-    "00 - Players/Marchus/Marchus.md",
-    "00 - Players/Ace/Elias 'O Cavalheiro' Monteiro.md"
+    "Content/Tokens"
   ]
 }

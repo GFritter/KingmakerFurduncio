@@ -1,0 +1,9 @@
+---
+aliases:
+Allegiance:
+Chapter:
+CR:
+Summary:
+Status:
+Characters:
+---

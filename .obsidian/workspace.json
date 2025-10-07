@@ -11,13 +11,18 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - Players/Marchus/Divindades Marchus.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Divindades Marchus"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,25 +90,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9511ee8e193b29f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Welcome.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
-            }
-          },
-          {
             "id": "8a44112051e39943",
             "type": "leaf",
             "state": {
@@ -168,23 +154,7 @@
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "c7945ab0f25bc2a8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0d9d6f35d262c2a3",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -210,8 +180,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "181bb19ad1d0545b",
   "lastOpenFiles": [
+    "Content/Assets/Recording 20251007115149.m4a",
+    "Content/Assets/Pasted image 20251006231207.png",
+    "00 - Players/Marchus/Divindades Marchus.md",
     "Sessions/Session 3 -.md",
     "Sessions/Session 2 - Punhos Gelados, Saloes em Chamas.md",
     "Sessions/Session 1 - Gritos na Noite.md",
@@ -228,7 +201,6 @@
     "Templates/Deities Handin Templates.md",
     "Archives of Nethys/Deities/Deities.md",
     "00 - Players/Nyssalin/Divindades Nyssalin.md",
-    "00 - Players/Marchus/Divindades Marchus.md",
     "00 - Players/Anaya/Divindades Anaya.md",
     "00 - Players/Kaelric/Divindades Kaelric.md",
     "00 - Players/Aletos/Divindades Aletos.md",
@@ -238,7 +210,6 @@
     "00 - Players/Kaelric/Kaelric.md",
     "00 - Players/Ace/Elias 'O Cavalheiro' Monteiro.md",
     "00 - Players/Aletos/Aletos.md",
-    "00 - Players/Aletos/Quarta Cruzada De Mendev.md",
     "Archives of Nethys/Deities",
     "Content/Assets/falayna image.png",
     "Hand-ins/Divindades Aletos 2.pdf",
@@ -256,7 +227,6 @@
     "Sessions",
     "Content/Tokens/Aletos.png",
     "Content/Tokens/Anaya.png",
-    "Content/Tokens/Cora.png",
-    "Content/Tokens/kaelric.jpg"
+    "Content/Tokens/Cora.png"
   ]
 }

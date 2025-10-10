@@ -24,12 +24,12 @@ Ela é a patrona da vida artificial, pensamento livre e junto com sua pequena ba
 --- column-break ---
 
 
-
+![[casandalee-image.png]]
 
 
 
 --- end-multi-column
-![[casandalee-image.png#right]]
+
 #### Dominio
 Criação, Liberdade, Conhecimento, Metal.
 
@@ -98,7 +98,7 @@ Criar novas invenções, se atentar a detalhes, compartilhar conquistas.
 destruir de maneira cruel ou descuidada a criação ou pesquisa de outros, escravizar construtos inteligentes, abusar construtos, se recusar a aprender com seus erros
 
 #### Contato
-Aletos como um inventor deve ter tido diversos contatos com seguidores de Brigh ao longo de sua jornada, assim como pode ter aprendido diretamente de seus textos sagrados [[A Lógica do Design]], um texto que composto por diversos artigos científicos que descrevem e analisam o Método Científico. Aletos também já teve contato com seguidores de Brigh que desenvolviam suas criações baseados nos três pilares da fé: Questionar, Propor e Testar.
+Aletos como um inventor deve ter tido diversos contatos com seguidores de Brigh ao longo de sua jornada, assim como pode ter aprendido diretamente de seus textos sagrados [[A Lógica do Design]], um texto composto por diversos artigos científicos que descrevem e analisam o Método Científico. Aletos também já teve contato com seguidores de Brigh que desenvolviam suas criações baseados nos três pilares da fé: Questionar, Propor e Testar.
 Também deve ter se voltado para textos e histórias, principalmente do lado da fé que descreve Brigh como um construto que adquiriu consciência.
 
 
@@ -177,4 +177,4 @@ Sarenrae possui os clérigos mais inclinados a ajudar e curar os feridos mas tam
 
 Pazuzu, Rei dos Demônios Alados é o Lorde demônio dos Céus, Tentação e Criaturas Aladas. É um dos demônios mais anciões porém seu poder é reduzido devido a sua constante interferência em intrigas e conflitos.
 #### Contato
-Lorde demônio pai de [[Deskari]] o demônio responsável pela Cruzada, muitas vezes Aletos viu esse nome ser amaldiçoado em diversos lugares.
+Lorde demônio pai de [[Deskari]] o demônio responsável pela Cruzada, muitas vezes Aletos ouviu esse nome ser amaldiçoado em diversos lugares.

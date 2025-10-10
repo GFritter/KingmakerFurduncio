@@ -21,8 +21,7 @@
               "title": "Divindades Marchus"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,6 +151,25 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "29906cb839f1886b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mobile Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mobile Notes"
+            }
           }
         ],
         "currentTab": 4
@@ -162,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "bases:Create new base": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "switcher:Open quick switcher": false,
@@ -180,36 +199,39 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "181bb19ad1d0545b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Content/Assets/Recording 20251007115149.m4a",
-    "Content/Assets/Pasted image 20251006231207.png",
     "00 - Players/Marchus/Divindades Marchus.md",
+    "00 - Players/Marchus/Marchus.md",
+    "00 - Players/Kaelric/Kaelric.md",
+    "00 - Players/Kaelric/Divindades Kaelric.md",
+    "00 - Players/Anaya/Divindades Anaya.md",
+    "00 - Players/Anaya/Anaya.md",
+    "00 - Players/Aletos/Divindades Aletos.md",
+    "00 - Players/Ace/Ace.md",
+    "00 - Players/Ace/Divindades Ace.md",
+    "00 - Players/Ace/Elias 'O Cavalheiro' Monteiro.md",
+    "00 - Players/Nyssalin/Divindades Nyssalin.md",
+    "00 - Players/Samantha Kayne/Divindades Samantha.md",
+    "Content/Assets/chaldira symbol.png",
+    "Templates/NPC Template.md",
+    "Templates/Location Template.md",
+    "Templates/Deity Template.md",
+    "Templates/Deities Handin Templates.md",
+    "Content/Assets/milani symbol.png",
+    "Archives of Nethys/Deities/Deities.md",
+    "Mobile Notes.md",
+    "Content/Assets/Recording 20251007115149.m4a",
+    "Content/Assets/caydean caliean symbol.png",
     "Sessions/Session 3 -.md",
     "Sessions/Session 2 - Punhos Gelados, Saloes em Chamas.md",
     "Sessions/Session 1 - Gritos na Noite.md",
     "Sessions/Session 0.5 -  The Great Feast.md",
-    "Templates/NPC Template.md",
-    "Templates/Location Template.md",
     "Untitled.base",
-    "Templates/Deity Template.md",
-    "Mobile Notes.md",
-    "00 - Players/Ace/Ace.md",
     "Unorganized Notes.md",
     "Things to Do.md",
     "Homebrews/Homebrew Support Materials.md",
-    "Templates/Deities Handin Templates.md",
-    "Archives of Nethys/Deities/Deities.md",
-    "00 - Players/Nyssalin/Divindades Nyssalin.md",
-    "00 - Players/Anaya/Divindades Anaya.md",
-    "00 - Players/Kaelric/Divindades Kaelric.md",
-    "00 - Players/Aletos/Divindades Aletos.md",
-    "00 - Players/Ace/Divindades Ace.md",
     "Untitled.md",
-    "00 - Players/Anaya/Anaya.md",
-    "00 - Players/Kaelric/Kaelric.md",
-    "00 - Players/Ace/Elias 'O Cavalheiro' Monteiro.md",
-    "00 - Players/Aletos/Aletos.md",
     "Archives of Nethys/Deities",
     "Content/Assets/falayna image.png",
     "Hand-ins/Divindades Aletos 2.pdf",
@@ -224,9 +246,6 @@
     "Hand-ins",
     "Content/Assets",
     "Archives of Nethys",
-    "Sessions",
-    "Content/Tokens/Aletos.png",
-    "Content/Tokens/Anaya.png",
-    "Content/Tokens/Cora.png"
+    "Content/Tokens/Aletos.png"
   ]
 }

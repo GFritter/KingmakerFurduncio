@@ -6,6 +6,9 @@ Areas of Concern:
 Pantheons/Covenants:
 Edicts:
 Anathema:
+Good Relations:
+Neutral Relations:
+Hostile Relations:
 ---
 # <%tp.title%>
 <%Introduction text about the god%>

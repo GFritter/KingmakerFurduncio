@@ -29,6 +29,9 @@
     "Location": "multitext",
     "Chapter": "multitext",
     "Relations": "multitext",
-    "Characters": "multitext"
+    "Characters": "multitext",
+    "Good Relations": "multitext",
+    "Neutral Relations": "multitext",
+    "Hostile Relations": "multitext"
   }
 }

@@ -95,7 +95,7 @@ Seu símbolo é um Caneco de Cerveja, geralmente metálico.
 
 --- column-break ---
 
-![[Pasted image 20251006231207.png]]
+![[caydean caliean symbol.png]]
 
 --- end-multi-column
 
@@ -103,21 +103,58 @@ Seu símbolo é um Caneco de Cerveja, geralmente metálico.
 Tanto em seu tempo como nobre quanto vivendo em meio ao povo comum Marchus ouviu varias versões das [[Mil Canções da Starstone]], diversas músicas recitadas por bardos viajantes que tentam contar o que se passou no teste do [[Deus Acidental]]. Como um deus de grande braveza, honra , bom humor e um pouco de inconseqüencia muitos heróis dos contos se inspiram no deus jovial, e enquanto contava algumas histórias sua mãe até comentou que o deus lembrava levemente seu pai, principalmente em sua luta contra [[Salicotal]], em que o demônio se enfureceu durante o duelo de insultos e partiu para cima do deus risonho, que arrancou suas asas com suas próprias mãos e as utilizou para bater no demônio.
 
 ### [[Milani]]
-
+Milani, A Everbloom, A Flor Eterna,  é a padroeira de todos os que se opõem contra a opressão, tiranos e governos injustos.  Sendo em primeiro momento uma santa da igreja de [[Aroden]], após a morte do deus , seu foco foi reforçado e novos devotos se juntaram, fazendo com que ela ascendesse como uma divindade menor. Menos poderosa e muitas vezes vista com desdém pelos outros deuses e principalmente demônios, Milani usa isso para agir fora a vista de seus inimigos e fomentar o poder dos mortais que a servem e avançam seus planos.
 
 #### Dominio
+Seus domínios são: Mudança, Destruição, Liberdade, Zelo.
 
+Suas áreas de interesse são: Devoção, Esperança, Rebeliões.
 
 #### Simbolo
 
+--- start-multi-column: ID_4ty7
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
+
+Seu símbolo é uma rosa crescendo do solo encharcado de sangue.
+
+--- column-break ---
+
+![[milani symbol.png]]
+
+--- end-multi-column
 
 #### Contato
+Milani pode ser uma deusa menor, mas seu tempo como mortal é cheio de histórias e feitos heróicos, principalmente seu momento de canonização como uma santa, se recusando a morrer de velhice e enfrentando as forças opressoras até seu fim derradeiro, e eventual retorno santificado. Milani também é uma deusa prevalente entre as casas dos [[Aldori]], principalmente aqueles refugiados que encontraram nas casas de duelo e eventualmente nas mansões nobres um propósito e família.
 
-### [[Chaldira Zuraristan]]
+
+### [[Chaldira Zuzaristan]]
+
+Chaldira, The Calamitous Turn, A Virada Calamitosa é uma deusa halfling conhecida por ser impetuosa, sortuda e sempre disposta a colocar a si mesma e seus aliados em perigo pra salvar aqueles que precisam.
+
 #### Dominio
+Seus domínios são: Confiança, Sorte, Trapaça e Zelo.
 
+Suas áreas de interesse são: Batalha, Fortuna e Travessuras.
 
 #### Simbolo
+
+--- start-multi-column: ID_hdya
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
+
+Seu símbolo é uma espada com três entalhes/amassados.
+
+--- column-break ---
+
+![[chaldira symbol.png|150]]
+
+--- end-multi-column
+
 
 
 #### Contato
